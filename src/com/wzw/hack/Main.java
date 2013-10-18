@@ -9,8 +9,6 @@ import javassist.CtClass;
 import javassist.CtMethod;
 
 public class Main {
-	
-	
 
 	public static void main(String[] args) {
 		Main main = new Main();
